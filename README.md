@@ -48,3 +48,10 @@ Would you like to contribute to updating/adding textures to this pack? Simply fo
 3) Make a pull request on this repository, with a description of things you have changed.
 
 4) You are done.
+
+*Need more help on how to contribute?*
+
+*[Quick tutorial] (https://youtu.be/mENDYhfxH-o) : A quick referance on how to use Git and how opensource project works.*
+
+*[More indept tutorial] (https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD) : A playlist of a tutorial series on how to use git.*
+
